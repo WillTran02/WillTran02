@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>Hello world!</h1>
+
+<p>
+  My name is Will and this is my GitHub page! Welcome, grab a seat and make yourself at home!
+</P>
+<p>
+  This account is still very much in its early stages and will most likely see continued updates over the course of the next few weeks, months, maybe even years. Feel free to take a look at some of my repositories! Currently, available repositories will be based on projects covered in my training with current employer Sparta Global, but this profile as a whole will also include independant work in the future.
+</p>
 
 <!--
 **WillTran02/WillTran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
